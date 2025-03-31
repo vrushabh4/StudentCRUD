@@ -1,0 +1,7 @@
+C:\Users\Vrushabh.Gaykar\source\repos\StudentCRUD\StudentCRUD\bin\Debug\StudentCRUD.exe.config
+C:\Users\Vrushabh.Gaykar\source\repos\StudentCRUD\StudentCRUD\bin\Debug\StudentCRUD.exe
+C:\Users\Vrushabh.Gaykar\source\repos\StudentCRUD\StudentCRUD\bin\Debug\StudentCRUD.pdb
+C:\Users\Vrushabh.Gaykar\source\repos\StudentCRUD\StudentCRUD\obj\Debug\StudentCRUD.csprojAssemblyReference.cache
+C:\Users\Vrushabh.Gaykar\source\repos\StudentCRUD\StudentCRUD\obj\Debug\StudentCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Vrushabh.Gaykar\source\repos\StudentCRUD\StudentCRUD\obj\Debug\StudentCRUD.exe
+C:\Users\Vrushabh.Gaykar\source\repos\StudentCRUD\StudentCRUD\obj\Debug\StudentCRUD.pdb
